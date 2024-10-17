@@ -1,8 +1,8 @@
 # Hi, :wave: I'm Ayudh
 
-<p align="center" dir="auto" markdown="1">
+<div align="center" dir="auto" markdown="1">
   ![](https://komarev.com/ghpvc/?username=makersmecca)
-</p>
+</div>
 
 I'm a Frontend Developer exploring the world of Javascript and React, and having fun building cool web projects.</br>
 I'm Thriving virtually since the real world is too, real.
