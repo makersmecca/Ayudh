@@ -15,9 +15,11 @@
 ### I'm open to collaborations. Feel free to reach out to me.
 <div align="center">
 <a href="https://www.linkedin.com/in/ayudh-nandi">
-  <img src="https://github.com/makersmecca/makersmecca/blob/master/pngwing.com.png" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://github.com/makersmecca/makersmecca/blob/master/pngwing.com.png" alt="LinkedIn" width="30" height="30"/>
 </a>
-<a href="mailto:ayudhnandi@gmail.com">Email</a>
+<a href="mailto:ayudhnandi@gmail.com">
+  <img src="https://github.com/makersmecca/makersmecca/blob/master/Email%20.png" alt="Email" width="30" height="30"/>
+</a>
 <a>reddit</a>
 </div>
 
