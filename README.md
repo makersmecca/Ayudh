@@ -12,8 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </p>
 
-### I'm open to collaborations. Feel free to reach out to me.
+
 <div align="center">
+### I'm open to collaborations. Feel free to reach out to me.
 <a href="https://www.linkedin.com/in/ayudh-nandi" style="text-decoration:none;">
   <img src="https://github.com/makersmecca/makersmecca/blob/master/Linkedin.png" alt="LinkedIn" width="35" height="35"/>
 </a>
