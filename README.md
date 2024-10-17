@@ -1,4 +1,5 @@
 # Hi, :wave: I'm Ayudh 
+[![GitHub Streak](https://streak-stats.demolab.com?user=makersmecca&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093" alt="Profile Views" />
 </p>
