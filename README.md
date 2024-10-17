@@ -13,7 +13,7 @@
 </p>
 
 ### I'm open to collaborations. Feel free to reach out to me.
-<div>
+<div align="center">
 <a>Linkedin</a>
 <a>Email</a>
 <a>reddit</a>
