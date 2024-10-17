@@ -13,7 +13,7 @@
 </p>
 
 
-<div align="center">
+<div style="text-align:center;">
 ### I'm open to collaborations. Feel free to reach out to me.
 <a href="https://www.linkedin.com/in/ayudh-nandi" style="text-decoration:none;">
   <img src="https://github.com/makersmecca/makersmecca/blob/master/Linkedin.png" alt="LinkedIn" width="35" height="35"/>
