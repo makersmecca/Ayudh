@@ -20,6 +20,5 @@
 <a href="mailto:ayudhnandi@gmail.com">
   <img src="https://github.com/makersmecca/makersmecca/blob/master/Email%20.png" alt="Email" width="30" height="30"/>
 </a>
-<a>reddit</a>
 </div>
 
