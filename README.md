@@ -1,5 +1,5 @@
 # Hi, :wave: I'm Ayudh 
-<p align="center>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=makersmecca&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="stats" />
 </p>
 <p align="center">
