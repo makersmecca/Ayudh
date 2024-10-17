@@ -1,4 +1,4 @@
-# Hi, :wave: I'm Ayudh
+# Hi, :wave: I'm Ayudh ![](https://komarev.com/ghpvc/?username=makersmecca)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093" alt="Profile Views" />
