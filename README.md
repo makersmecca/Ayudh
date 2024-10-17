@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=makersmecca&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=makersmecca&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=450&card_height=170" alt="stats" />
 </p>
 
 <p align="center">
