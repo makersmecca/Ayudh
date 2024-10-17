@@ -1,4 +1,4 @@
-<p justify="between"># Hi, :wave: I'm Ayudh <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" /></p>
+<p style="text-align: justify;"># Hi, :wave: I'm Ayudh <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" /></p>
 ### I'm a Frontend Developer exploring the world of Javascript and React, and having fun building cool web projects.
 #### I'm Thriving virtually since the real world is too, real.
 <p align="center">
