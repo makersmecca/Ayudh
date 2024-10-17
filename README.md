@@ -8,3 +8,7 @@
   <img src="https://streak-stats.demolab.com?user=makersmecca&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makersmecca" />
+</p>
+
