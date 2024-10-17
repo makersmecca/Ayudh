@@ -15,7 +15,7 @@
 ### I'm open to collaborations. Feel free to reach out to me.
 <div align="center">
 <a href="https://www.linkedin.com/in/ayudh-nandi">
-  <img src="https://github.com/makersmecca/makersmecca/blob/master/pngwing.com.png" alt="LinkedIn" width="80" height="80"/>
+  <img src="https://github.com/makersmecca/makersmecca/blob/master/pngwing.com.png" alt="LinkedIn" width="50" height="50"/>
 </a>
 <a>Email</a>
 <a>reddit</a>
