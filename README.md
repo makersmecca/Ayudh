@@ -2,6 +2,7 @@
 ### I'm a Frontend Developer exploring the world of Javascript and React, and having fun building cool web projects
 ### I'm Thriving virtually since the real world is too real. <img src="cat.webp" width="50"/>
 #
+### Currently working on, [this](https://github.com/makersmecca/PomodoroStudyApp) .
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" />
 </p>
@@ -13,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </p>
 
-### Currently working on, <a href ="https://github.com/makersmecca/PomodoroStudyApp">this</a>.
+
 
 ### I'm open to collaborations. Feel free to reach out to me.
 <div align="center">
