@@ -1,6 +1,6 @@
 # Hi, :wave: I'm Ayudh
 ### I'm a Frontend Developer exploring the world of Javascript and React, and having fun building cool web projects.
-### I'm Thriving virtually since the real world is too real.
+### I'm Thriving virtually since the real world is too real. ![](cat.webp)
 #
 <img src="cat.webp" width="50"/>
 <p align="center">
