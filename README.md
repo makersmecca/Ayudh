@@ -1,7 +1,7 @@
 # Hi, :wave: I'm Ayudh
 ### I'm a Frontend Developer exploring the world of Javascript and React, and having fun building cool web projects
 ### Thriving virtually since the real world is too real. <img src="cat.webp" width="50"/>
-### Currently working on, [this](https://github.com/makersmecca/PomodoroStudyApp) .
+### :white_check_mark: Currently working on, [this](https://github.com/makersmecca/PomodoroStudyApp) .
 #
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" />
