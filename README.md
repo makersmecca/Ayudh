@@ -3,6 +3,16 @@
 ### Thriving virtually since the real world is too real. <img src="cat.webp" width="50"/>
 ### :pushpin: Currently working on, [this](https://github.com/makersmecca/PomodoroStudyApp) .
 #
+### I'm open to collaborations. Feel free to reach out to me.
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayudh-nandi" style="text-decoration:none;">
+    <img src="https://github.com/makersmecca/makersmecca/blob/master/Linkedin.png" alt="LinkedIn" width="35" height="35"/>
+  </a>
+  <a href="mailto:ayudhnandi@gmail.com" style="text-decoration:none;">
+    <img src="https://github.com/makersmecca/makersmecca/blob/master/Email%20.png" alt="Email" width="35" height="35"/>
+  </a>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" />
 </p>
@@ -15,14 +25,4 @@
 </p>
 
 
-
-### I'm open to collaborations. Feel free to reach out to me.
-<div align="center">
-<a href="https://www.linkedin.com/in/ayudh-nandi" style="text-decoration:none;">
-  <img src="https://github.com/makersmecca/makersmecca/blob/master/Linkedin.png" alt="LinkedIn" width="35" height="35"/>
-</a>
-<a href="mailto:ayudhnandi@gmail.com" style="text-decoration:none;">
-  <img src="https://github.com/makersmecca/makersmecca/blob/master/Email%20.png" alt="Email" width="35" height="35"/>
-</a>
-</div>
 
