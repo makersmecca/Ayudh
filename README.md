@@ -6,7 +6,7 @@
 - [Halo-Focus - Focus Assitant/Productivity](https://github.com/makersmecca/Halo-Focus-Pomodoro)
 
 ### Top Tech Stack:
-![](https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-react.gif)
+![](https://raw.githubusercontent.com/makersmecca/makersmecca/66f03938840183870168f39d477066e37eb8afc0/react.svg)
 ![](https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-tailwind-css-48.png)
 ![](https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-javascript.gif)
 ![](https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-html-5-48.png)
