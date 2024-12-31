@@ -7,6 +7,10 @@
 
 ### Top Tech Stack:
 ![](https://raw.githubusercontent.com/makersmecca/Portfolio/d7506ca18e1e1809aeb42e89d03fd96636544734/src/assets/react.svg)
+![](https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-tailwind-css-48.png)
+![](https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-javascript.gif)
+![](https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-html-5-48.png)
+![](https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-css-logo-48.png)
 #
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" />
