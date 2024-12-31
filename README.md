@@ -6,6 +6,7 @@
 - [Halo-Focus - Focus Assitant/Productivity](https://github.com/makersmecca/Halo-Focus-Pomodoro)
 
 ### Top Tech Stack:
+![](https://raw.githubusercontent.com/makersmecca/Portfolio/d7506ca18e1e1809aeb42e89d03fd96636544734/src/assets/react.svg)
 #
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" />
