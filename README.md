@@ -7,13 +7,15 @@
 
 ### Top Tech Stack:
 <span>
-<img src="https://raw.githubusercontent.com/makersmecca/makersmecca/66f03938840183870168f39d477066e37eb8afc0/react.svg" width="48px" height="48px"/>
-<img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-tailwind-css-48.png" width="48px" height="48px"/>
-<img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-javascript.gif" width="48px" height="48px"/>
-<img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-html-5-48.png" width="48px" height="48px"/>
-<img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-css-logo-48.png" width="48px" height="48px"/>
-  </span>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/66f03938840183870168f39d477066e37eb8afc0/react.svg" width="48px" height="48px"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-tailwind-css-48.png" width="48px" height="48px"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-javascript.gif" width="48px" height="48px"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-html-5-48.png" width="48px" height="48px"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-css-logo-48.png" width="48px" height="48px"/>
+</span>
+
 #
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" />
 </p>
