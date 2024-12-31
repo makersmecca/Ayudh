@@ -2,8 +2,8 @@
 ### I'm a Frontend Developer exploring the world of Javascript and React, and having fun building cool web projects
 ### Thriving virtually since the real world is too real. <img src="cat.webp" width="50"/>
 ### :pushpin: Currently working on, 
-- [Vibie](https://github.com/makersmecca/Vibie)
-- [Halo-Focus](https://github.com/makersmecca/Halo-Focus-Pomodoro)
+- [Vibie - Social Media Platform](https://github.com/makersmecca/Vibie)
+- [Halo-Focus - Focus Assitant/Productivity](https://github.com/makersmecca/Halo-Focus-Pomodoro)
 #
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makersmecca&base=1093&label=Profile+Views" alt="Profile Views" />
