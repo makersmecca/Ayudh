@@ -5,6 +5,8 @@
 - [Vibie - Social Media Platform](https://github.com/makersmecca/Vibie)
 - [Halo-Focus - Focus Assitant/Productivity](https://github.com/makersmecca/Halo-Focus-Pomodoro)
 
+# 
+
 ### :computer: Top Tech Stack
 <div align="center">
   <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/66f03938840183870168f39d477066e37eb8afc0/react.svg" width="48px" height="48px"/>
@@ -38,7 +40,7 @@
 </div>
 
 <div>
-<img src="/dino.gif" alt="dino gif" height="40px"/>
+<img src="/dino.gif" alt="dino gif"/>
 </div>
 
 
