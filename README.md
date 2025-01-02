@@ -7,11 +7,14 @@
 
 <div align="center">
   <h2>&#128187;Tech Stack</h2>
-  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/66f03938840183870168f39d477066e37eb8afc0/react.svg" width="48px" height="48px"/>
-  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-tailwind-css-48.png" width="48px" height="48px"/>
-  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-javascript.gif" width="42px" height="42px"/>
-  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-html-5-48.png" width="48px" height="48px"/>
-  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-css-logo-48.png" width="48px" height="48px"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/66f03938840183870168f39d477066e37eb8afc0/react.svg" width="48px" height="48px" alt="React JS"/>
+  <img src="/icons8-vite-48.png" height="48px" width="48px" alt="Vite"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-tailwind-css-48.png" width="48px" height="48px" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-javascript.gif" width="42px" height="42px" alt="Javascript ES6"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-html-5-48.png" width="48px" height="48px" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-css-logo-48.png" width="48px" height="48px" alt="CSS"/>
+  <img src="/icons8-firebase-48.png" width="48px" height="48px" alt="Google Firebase and Firestore"/>
+
 </div>
 
 #
