@@ -39,8 +39,8 @@
   </a>
 </div>
 
-<div>
-<img src="/dino.gif" alt="dino gif"/>
+<div align="center">
+<img src="/dino.gif" alt="dino gif" height="50%" width="50%"/>
 </div>
 
 
