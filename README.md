@@ -13,6 +13,7 @@
   <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-javascript.gif" width="42px" height="42px" alt="Javascript ES6"/>
   <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-html-5-48.png" width="48px" height="48px" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-css-logo-48.png" width="48px" height="48px" alt="CSS"/>
+  <img src="/icons8-git-48.png" height="48px" width="48px" alt="Git"/>
   <img src="/icons8-firebase-48.png" width="48px" height="48px" alt="Google Firebase and Firestore"/>
 
 </div>
