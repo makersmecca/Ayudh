@@ -42,7 +42,7 @@
 #
 
 <div align="center">
-<img src="/dino.gif" alt="dino gif" height="50%" width="50%"/>
+  <img src="/dino.gif" alt="dino gif" height="40%" width="50%"/>
 </div>
 
 
