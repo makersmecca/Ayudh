@@ -8,8 +8,6 @@
 # 
 
 ### :computer: Top Tech Stack
-![](https://raw.githubusercontent.com/makersmecca/makersmecca/66f03938840183870168f39d477066e37eb8afc0/react.svg){width=48, height=48}
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/66f03938840183870168f39d477066e37eb8afc0/react.svg" width="48px" height="48px"/>
   <img src="https://raw.githubusercontent.com/makersmecca/makersmecca/refs/heads/master/icons8-tailwind-css-48.png" width="48px" height="48px"/>
