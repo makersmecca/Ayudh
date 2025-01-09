@@ -4,7 +4,7 @@
 ### :pushpin: Currently working on, 
 - [Vibie - Social Media Platform](https://github.com/makersmecca/Vibie)
 - [Halo-Focus - Focus Assitant/Productivity](https://github.com/makersmecca/Halo-Focus-Pomodoro)
-- [TypingAnimation - A light-weight, functional component alternative to React-Typing Library](https://github.com/makersmecca/Typing-Animation-React)
+- [TypingAnimation - A Light-Weight, Functional Component alternative to React-Typing Library](https://github.com/makersmecca/Typing-Animation-React)
 
 <div align="center">
   <h2>&#128187;Tech Stack</h2>
