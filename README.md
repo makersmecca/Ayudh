@@ -1,6 +1,5 @@
 # Hi, :wave: I'm Ayudh
-### I'm a Frontend Developer exploring the world of Javascript and React and having fun building cool web projects.
-### <img src="cat.webp" width="50"/>
+### I'm a Frontend Developer exploring the world of Javascript and React and having fun building cool web projects. <img src="cat.webp" width="50"/>
 ### :pushpin: Currently working on, 
 - [Vibie - Social Media Platform](https://github.com/makersmecca/Vibie)
 - [Halo-Focus - Focus Assitant/Productivity](https://github.com/makersmecca/Halo-Focus-Pomodoro)
